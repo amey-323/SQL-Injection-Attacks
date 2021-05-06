@@ -1,7 +1,7 @@
 # SQL-Injection-Attacks
 Reference IEEE Paper : Research on SQL Injection Attack and Prevention Technology Based on Web
 
-Name:Amey Gangan | Class: SY B1 | Course: RDBMS | Faculty Name: Vaibhav Vasani,Pradnya Bhangale | College Name:KJSCE
+Name: Amey Gangan | Class: SY B1 | Course: RDBMS | Faculty Name: Vaibhav Vasani,Pradnya Bhangale | College Name:KJSCE
 
 Instructions: Firstly, I have uploaded the Research Paper and Presentation in the documents folder. I have implemented SQL Injection attacks and the preventions
 that can be taken while we are taking input from users. I have implemented it through a login form where an hacker can perform SQL Injection attack and also I have provided
